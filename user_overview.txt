@@ -1,0 +1,16 @@
+Total number of users: 2
+Total number of tasks: 1
+
+User: admin
+Total tasks assigned: 1
+Percentage of total tasks assigned: 100.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks still to be completed: 100.00%
+Percentage of overdue tasks not yet completed: 0.00%
+
+User: irina
+Total tasks assigned: 0
+Percentage of total tasks assigned: 0.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks still to be completed: 0.00%
+Percentage of overdue tasks not yet completed: 0.00%

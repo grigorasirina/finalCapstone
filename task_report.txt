@@ -1,0 +1,6 @@
+total_number_of_tasks;1
+completed_tasks;0
+uncompleted_tasks;1
+overdue_tasks;0
+incomplete_tasks_percentage;100.0
+overdue_tasks_percentage;0.0
