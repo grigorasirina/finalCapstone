@@ -1,5 +1,5 @@
 Project Name
-Task Manager CLI
+Task Manager
 
 Description
 This Python-based application serves as a comprehensive solution for managing tasks and user accounts through a command-line interface. Designed for small teams or personal projects, it allows for efficient tracking of task assignments, due dates, and completion status. The program features user authentication, task assignment to specific users, viewing and editing tasks, and generating detailed reports on tasks and user activities. It aims to streamline the process of task management without the need for complex or costly software.
